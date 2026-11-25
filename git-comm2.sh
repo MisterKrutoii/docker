@@ -4,3 +4,5 @@ git push                            # Отправка изменений в о�
 git branch                          # Просмотр существующих веток
 git branch -D name branch           # Удаление ветки
 git switch --create name            #Создание и переключение на новую ветку
+
+
