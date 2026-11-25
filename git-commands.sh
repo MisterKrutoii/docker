@@ -3,3 +3,4 @@ git commit -m "Commit messege"      # Описание изменения (Ко�
 git push                            # Отправка изменений в ориджин (Основной удалённый репозиторий)
 git branch                          # Просмотр существующих веток
 git branch -D name branch           # Удаление ветки
+git switch --create name            #Создание и переключение на новую ветку
